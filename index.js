@@ -1,6 +1,6 @@
 // Calculadora de factoriales
 
-let fact = parseInt(prompt("Calculadora de factorailes \n Ingrese un numero"))
+let fact = parseInt(prompt("Calculadora de factoriales \n Ingrese un numero"))
 
 let total = 1
 for (i = 1; i <= fact; i++) {
